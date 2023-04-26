@@ -38,5 +38,6 @@
     "winston": "^3.3.3"
   },
   "description": "bot",
-  "author": "gedion"
+  "author": "gedion",
+  "repository": "https://github.com/Gedi-svg/arbitrage-bot-amm-polygon-1.git"
 }
